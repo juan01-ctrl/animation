@@ -13,7 +13,7 @@ body{
 .box1{
     width: 530px;
     height: 625px;
-    background-image: url('1.png');
+    background-image: url('../assets/1.png');
     position: absolute;
     bottom: -100%;
     left: 30%;
@@ -25,7 +25,7 @@ body{
   position: absolute;
   width: 530px;
   height: 625px;
-  background-image:url('2.png') ;
+  background-image:url('../assets/2.png') ;
   left: 8px;
   z-index: -1;
 }
